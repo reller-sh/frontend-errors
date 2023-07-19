@@ -1,9 +1,2 @@
-**/*.stories.*
 .git
-.vscode
-env
-src/firebase-messaging-sw.js
-public/firebase-messaging-sw.js
 next.config.js
-.storybook
-src/core/utils/moment/locales
